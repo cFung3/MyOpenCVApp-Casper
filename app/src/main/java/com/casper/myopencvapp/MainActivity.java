@@ -12,6 +12,7 @@ import org.opencv.android.Utils;
 import org.opencv.core.CvType;
 import org.opencv.core.Mat;
 
+//This is Casper's project~~~
 public class MainActivity extends AppCompatActivity {
 
     @Override
